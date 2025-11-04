@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](cute-cat-hacker-operating-laptop-600nw-2235950657.webp)
 
 ### Large image
 
