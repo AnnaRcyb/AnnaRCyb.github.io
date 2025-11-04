@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](cute-cat-hacker-operating-laptop-600nw-2235950657.webp)
+![HackerCat](cute-cat-hacker-operating-laptop-600nw-2235950657.webp)
 
 ### Large image
 
